@@ -27,12 +27,15 @@ My research interest includes Computer Vision, video semantics, multimedia secur
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.07*: &nbsp;🎉🎉 Our Paper NCL-IML is accepted by ICCV2023 !
 
 # 📝 Selected Publications 
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+## Image Manipulation Localization
+- ``ICCV 2023``[Pre-training-free Image Manipulation Localization through Non-Mutually Exclusive Contrastive Learning](https://openaccess.thecvf.com/content/ICCV2023/html/Zhou_Pre-Training-Free_Image_Manipulation_Localization_through_Non-Mutually_Exclusive_Contrastive_Learning_ICCV_2023_paper.html). [![](https://img.shields.io/github/stars/knightzjz/NCL-IML?style=social&label=Code+Stars)](https://github.com/knightzjz/NCL-IML)
+
+## Speech
+- `IEEE-ACM T AUDIO SPE`[Towards Recognition for Radio-echo Speech in Air Traffic Control: Dataset and a Contrastive Learning Approach](https://ieeexplore.ieee.org/abstract/document/10225727/). Yi Lin, Qingyang Wang, Xincheng Yu, Zichen Zhang, Dongyue Guo, **Jizhe Zhou**.  <!---- **IEEE/ACM Transactions on Audio, Speech, and Language Processing.** -->
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -50,6 +53,3 @@ My research interest includes Computer Vision, video semantics, multimedia secur
 - AC: ACM MM
 - Reviewer: AAAI、、WWW、TCSVT、TIP、TMM
 
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
