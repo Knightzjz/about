@@ -32,7 +32,7 @@ My research interest includes Computer Vision, video semantics, multimedia secur
 # 📝 Selected Publications 
 
 ## Image Manipulation Localization
-- ``ICCV 2023`` [Pre-training-free Image Manipulation Localization through Non-Mutually Exclusive Contrastive Learning](https://openaccess.thecvf.com/content/ICCV2023/html/Zhou_Pre-Training-Free_Image_Manipulation_Localization_through_Non-Mutually_Exclusive_Contrastive_Learning_ICCV_2023_paper.html), **Jizhe Zhou,** Xiaochen Ma, Xia Du, Ahmed Y Alhammadi, Wentao Feng. [![](https://img.shields.io/github/stars/knightzjz/NCL-IML?style=social&label=Code+Stars)](https://github.com/knightzjz/NCL-IML)
+- [Pre-training-free Image Manipulation Localization through Non-Mutually Exclusive Contrastive Learning]([https://ieeexplore.ieee.org/abstract/document/9398552/](https://openaccess.thecvf.com/content/ICCV2023/html/Zhou_Pre-Training-Free_Image_Manipulation_Localization_through_Non-Mutually_Exclusive_Contrastive_Learning_ICCV_2023_paper.html)), **Jizhe Zhou,** Xiaochen Ma, Xia Du, Ahmed Y Alhammadi, Wentao Feng, <span style="color:green;">ICCV 2023<span> | [![](https://img.shields.io/github/stars/knightzjz/NCL-IML?style=social&label=Code+Stars)](https://github.com/knightzjz/NCL-IML)
 
 ## Speech
 - ``IEEE-ACM T AUDIO SPE`` [Towards Recognition for Radio-echo Speech in Air Traffic Control: Dataset and a Contrastive Learning Approach](https://ieeexplore.ieee.org/abstract/document/10225727/). Yi Lin, Qingyang Wang, Xincheng Yu, Zichen Zhang, Dongyue Guo, **Jizhe Zhou**.  <!---- **IEEE/ACM Transactions on Audio, Speech, and Language Processing.** -->
