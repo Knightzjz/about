@@ -32,7 +32,11 @@ My research interest includes Computer Vision, video semantics, multimedia secur
 # 📝 Selected Publications 
 
 ## Image Manipulation Localization
-- ``ICCV 2023`` [Pre-training-free Image Manipulation Localization through Non-Mutually Exclusive Contrastive Learning](https://openaccess.thecvf.com/content/ICCV2023/html/Zhou_Pre-Training-Free_Image_Manipulation_Localization_through_Non-Mutually_Exclusive_Contrastive_Learning_ICCV_2023_paper.html), **Jizhe Zhou,** Xiaochen Ma, Xia Du, Ahmed Y Alhammadi, Wentao Feng, [![](https://img.shields.io/github/stars/knightzjz/NCL-IML?style=social&label=Code+Stars)](https://github.com/knightzjz/NCL-IML)
+- ``ICCV 2023`` [Pre-training-free Image Manipulation Localization through Non-Mutually Exclusive Contrastive Learning](https://openaccess.thecvf.com/content/ICCV2023/html/Zhou_Pre-Training-Free_Image_Manipulation_Localization_through_Non-Mutually_Exclusive_Contrastive_Learning_ICCV_2023_paper.html), **Jizhe Zhou**, Xiaochen Ma, Xia Du, Ahmed Y Alhammadi, Wentao Feng, [![](https://img.shields.io/github/stars/knightzjz/NCL-IML?style=social&label=Code+Stars)](https://github.com/knightzjz/NCL-IML)
+
+## Video Semantics
+- ``TIFS 2020`` [Personal privacy protection via irrelevant faces tracking and pixelation in video live streaming](https://ieeexplore.ieee.org/abstract/document/9218980/), **Jizhe Zhou**, Chi-Man Pun.
+- ``ACM MM 2020`` [Privacy-sensitive objects pixelation for live video streaming](https://dl.acm.org/doi/abs/10.1145/3394171.3413972), **Jizhe Zhou**, Chi-Man Pun, Yu Tong.
 
 ## Speech
 - ``IEEE-ACM T AUDIO SPE`` [Towards Recognition for Radio-echo Speech in Air Traffic Control: Dataset and a Contrastive Learning Approach](https://ieeexplore.ieee.org/abstract/document/10225727/). Yi Lin, Qingyang Wang, Xincheng Yu, Zichen Zhang, Dongyue Guo, **Jizhe Zhou**.  <!---- **IEEE/ACM Transactions on Audio, Speech, and Language Processing.** -->
