@@ -47,7 +47,7 @@ He has pioneered the field of automatic filtering of video and live content for 
 - ``PR`` [Revisiting the transferability of adversarial examples via source-agnostic adversarial feature inducing method](https://www.sciencedirect.com/science/article/abs/pii/S0031320323005265). Yatie Xiao, **Jizhe Zhou**, Kongyang Chen, Zhenbang Liu.
 - ``KBS`` [Exploring the first-move balance point of Go-Moku based on reinforcement learning and Monte Carlo tree search](https://www.sciencedirect.com/science/article/pii/S095070512201303X), Pengsen Liu, **Jizhe Zhou**, Jiancheng Lv
 
-- 
+
 # 🎖 Honors and Awards
 > Website is on building...
 
