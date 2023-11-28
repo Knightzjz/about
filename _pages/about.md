@@ -63,7 +63,9 @@ He has pioneered the field of automatic filtering of video and live content for 
  --->
 # 📝 Academic Services
 - Area Chair: ACM MM 2023
-- Reviewer: AAAI 2021, 2022; WWW 2021; ICLR 2022; ACM MM 2021, 20222, 2023; TCSVT; TIP; TMM; TNNLS. 
+- Advocacy Chair: CSAI 2023  
+- Techinal Program Committee: PRML 2023  
+- Program Committee: AAAI 2021 & 2022, WWW 2021, ICLR 2022, ACM MM 2021 & 2022 & 2023, TCSVT, TIP, TMM, TNNLS, etc.. 
 
 # 📝 Supervised Students (2022-now)
 - **Image Manipulation Localization**  
