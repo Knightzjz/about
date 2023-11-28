@@ -66,21 +66,21 @@ He has pioneered the field of automatic filtering of video and live content for 
 - Reviewer: AAAI 2021, 2022; WWW 2021; ICLR 2022; ACM MM 2021, 20222, 2023; TCSVT; TIP; TMM; TNNLS. 
 
 # 📝 Supervised Students (2022-now)
->- **Image Manipulation Localization**  
-1. [Xiaochen Ma](https://me.xiaochen.world/), Research Assitant in Sichuan University (Backbone Architecture for IML)    
-2. Bo Du, Undergradute Student in CS, Sichuan University (IML by Diffusion)    
-3. Xinyu Yang, Undergradute Student in CS, Sichuan University (Data Sythensize for IML)   
-4. Lei Su, Master Student in CS, Sichuan University (Anti-AIGC)  
-5. Mingxi Guo, Ph.D candindate in CIS, University of Macau (Anti-AIGC)    
->- **Reasoning under DNN Architecture**  
-1. [Yu Tong](https://eng.stu.edu.cn/info/1082/3025.htm), Lecture, Department of Computer Science and Technology, College of Engineering, Shantou Univerisity (Separation Inference)  
-2. Ruiyang Ni, Master Student in CS, Sichuan University (Graph Inference)  
-3. Bingkui Tong, Undergradute Student in CS, Sichuan University (Graph Inference)  
-4. Pengsen Liu, Ph.D student in lambda lab, Nanjing University (Game AI)
->- **Image Generation and Indusctrial Detection**
-1. Jian Wang, Ph.D candindate in CS, Sichuan University (Image-to-Image Translation)   
-2. Jian Zhang, Master Student in CS, Sichuan University (Deblur)    
-3. Zhuohang Jiang, Undergradute Student in CS, Sichuan University (Flaw Detection)  
-4. Xuekang Zhu, Master Student in CS, Sichuan University (Game Avantar Generation)   
-5. Xiwen Wang, Master Student in CS, Sichuan University (Game Avantar Generation)    
+- **Image Manipulation Localization**  
+>1. [Xiaochen Ma](https://me.xiaochen.world/), Research Assitant in Sichuan University (Backbone Architecture for IML)    
+>2. Bo Du, Undergradute Student in CS, Sichuan University (IML by Diffusion)    
+>3. Xinyu Yang, Undergradute Student in CS, Sichuan University (Data Sythensize for IML)   
+>4. Lei Su, Master Student in CS, Sichuan University (Anti-AIGC)  
+>5. Mingxi Guo, Ph.D candindate in CIS, University of Macau (Anti-AIGC)    
+- **Reasoning under DNN Architecture**  
+>1. [Yu Tong](https://eng.stu.edu.cn/info/1082/3025.htm), Lecture, Department of Computer Science and Technology, College of Engineering, Shantou Univerisity (Separation Inference)  
+>2. Ruiyang Ni, Master Student in CS, Sichuan University (Graph Inference)  
+>3. Bingkui Tong, Undergradute Student in CS, Sichuan University (Graph Inference)  
+>4. Pengsen Liu, Ph.D student in lambda lab, Nanjing University (Game AI)
+- **Image Generation and Indusctrial Detection**
+>1. Jian Wang, Ph.D candindate in CS, Sichuan University (Image-to-Image Translation)   
+>2. Jian Zhang, Master Student in CS, Sichuan University (Deblur)    
+>3. Zhuohang Jiang, Undergradute Student in CS, Sichuan University (Flaw Detection)  
+>4. Xuekang Zhu, Master Student in CS, Sichuan University (Game Avantar Generation)   
+>5. Xiwen Wang, Master Student in CS, Sichuan University (Game Avantar Generation)    
 
