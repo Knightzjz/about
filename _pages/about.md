@@ -83,6 +83,6 @@ He has pioneered the field of automatic filtering of video and live content for 
 >1. Jian Wang, Ph.D Candindate in CS, Sichuan University (Image-to-Image Translation)   
 >2. Jian Zhang, Master Student in CS, Sichuan University (Flaw Detection)    
 >3. Zhuohang Jiang, Undergraduate Student in CS, Sichuan University (Deblur)  
->4. Xuekang Zhu, Master Student in CS, Sichuan University (Game Avantar Generation)   
->5. Xiwen Wang, Master Student in CS, Sichuan University (Game Avantar Generation)    
+>4. Xuekang Zhu, Master Student in CS, Sichuan University (Game Avatar Generation)   
+>5. Xiwen Wang, Master Student in CS, Sichuan University (Game Avatar Generation)    
 
