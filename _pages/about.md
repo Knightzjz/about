@@ -40,9 +40,10 @@ He has pioneered the field of automatic filtering of video and live content for 
 
 ## Reasoning for NN
 - ``ACL 2022`` [Word Segmentation by Separation Inference for East Asian Languages](https://aclanthology.org/2022.findings-acl.309/), Yu Tong, Jingzhi Guo, **Jizhe Zhou**, Ge Chen, Guokai Zheng
+- ``IJCAI 2022``
 - ``TASLP`` [Separation inference: A unified framework for word segmentation in east asian languages](https://ieeexplore.ieee.org/abstract/document/9740431), Yu Tong, Jingzhi Guo, **Jizhe Zhou**
 - ``TASLP`` [Towards Recognition for Radio-echo Speech in Air Traffic Control: Dataset and a Contrastive Learning Approach](https://ieeexplore.ieee.org/abstract/document/10225727/). Yi Lin, Qingyang Wang, Xincheng Yu, Zichen Zhang, Dongyue Guo, **Jizhe Zhou**.  <!---- **IEEE/ACM Transactions on Audio, Speech, and Language Processing.** -->
-- ``KBS`` [Exploring the first-move balance point of Go-Moku based on reinforcement learning and Monte Carlo tree search](https://www.sciencedirect.com/science/article/pii/S095070512201303X), Pengsen Liu, **Jizhe Zhou**, Jiancheng Lv
+
 
 # 📖 Educations
 > Website is on building...
@@ -53,15 +54,15 @@ He has pioneered the field of automatic filtering of video and live content for 
  - *2019.03 - 2019.11*, Student Research Assisitant, Kakao Track, Yonsei University, korean.
 
 # 💬 Invited Talks
-> ["A Song of Ice and Fire: Image Tampering Techniques in the Age of Large Generative Models"](https://www.bilibili.com/video/BV1sw411y7YR/?spm_id_from=333.337.search-card.all.click), [PRML 2023](http://www.prml.org/invited.html), Urumuqi, China.
-> [如何为直播中的人脸自动打码](https://vs.scu.edu.cn/info/1021/1793.htm), Academic Salon (a.k.a Job Talk), Sichuan Unviersity 2021.
-> "Multi-Objects Online-Tracking", [University ML Camp Jeju 2019 (UMLC2019)](https://github.com/UniversityMLCampJeju/2019), Jeju Dao, Korean.
+> ["A Song of Ice and Fire: Image Tampering Techniques in the Age of Large Generative Models"](https://www.bilibili.com/video/BV1sw411y7YR/?spm_id_from=333.337.search-card.all.click), [PRML 2023](http://www.prml.org/invited.html), Urumuqi, China.   
+> [如何为直播中的人脸自动打码](https://vs.scu.edu.cn/info/1021/1793.htm), Academic Salon (a.k.a Job Talk), Sichuan Unviersity 2021.   
+> "Multi-Objects Online-Tracking", [University ML Camp Jeju 2019 (UMLC2019)](https://github.com/UniversityMLCampJeju/2019), Jeju Dao, Korean.   
 
 <!---
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
  --->
 # 📝 Academic Services
-- Area Chair: ACM MM
-- Reviewer: AAAI、WWW、TCSVT、TIP、TMM
+- Area Chair: ACM MM 2023
+- Reviewer: AAAI 2021, 2022; WWW 2021; ICLR 2022; ACM MM 2021, 20222, 2023; TCSVT; TIP; TMM; TNNLS. 
 
