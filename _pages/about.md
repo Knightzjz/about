@@ -39,9 +39,9 @@ He has pioneered the field of automatic filtering of video and live content for 
 - ``ACM MM 2023 (oral)`` [M2ATS: A Real-world Multimodal Air Traffic Situation Benchmark Dataset and Beyond](https://dl.acm.org/doi/abs/10.1145/3581783.3613759), Dongyue Guo, Yi Lin, Zheng Zhang, **Jizhe Zhou**. 
 
 ## Reasoning for NN
-- ``ACL 2022`` [Word Segmentation by Separation Inference for East Asian Languages](https://aclanthology.org/2022.findings-acl.309/), Yu Tong, Jingzhi Guo, **Jizhe Zhou**, Ge Chen, Guokai Zheng
-- ``IJCAI 2022``
-- ``TASLP`` [Separation inference: A unified framework for word segmentation in east asian languages](https://ieeexplore.ieee.org/abstract/document/9740431), Yu Tong, Jingzhi Guo, **Jizhe Zhou**
+- ``ACL 2022`` [Word Segmentation by Separation Inference for East Asian Languages](https://aclanthology.org/2022.findings-acl.309/), Yu Tong, Jingzhi Guo, **Jizhe Zhou**, Ge Chen, Guokai Zheng.
+- ``IJCAI 2022``[Abstract rule learning for paraphrase generation](https://ijcai-22.org/main-track-accepted-papers/), Xianggen Liu, Wenqiang Lei, Jiancheng Lv, **Jizhe Zhou**.
+- ``TASLP`` [Separation inference: A unified framework for word segmentation in east asian languages](https://ieeexplore.ieee.org/abstract/document/9740431), Yu Tong, Jingzhi Guo, **Jizhe Zhou**.
 - ``TASLP`` [Towards Recognition for Radio-echo Speech in Air Traffic Control: Dataset and a Contrastive Learning Approach](https://ieeexplore.ieee.org/abstract/document/10225727/). Yi Lin, Qingyang Wang, Xincheng Yu, Zichen Zhang, Dongyue Guo, **Jizhe Zhou**.  <!---- **IEEE/ACM Transactions on Audio, Speech, and Language Processing.** -->
 
 
@@ -49,9 +49,9 @@ He has pioneered the field of automatic filtering of video and live content for 
 > Website is on building...
  - *2008.08 - 2013.06*, Bachelor of Science, Software Engineering, FST, University of Macau, Macau SAR (Supervisor: Prof. Wen Wu).
  - *2013.09 - 2018.06*, Master of Science, Software Engineering, FST, University of Macau, Macau SAR (Supervisor: Prof. Philip C.L. Chen).
- - *2013.09 - 2018.06*, Student Research Assisitant, Multimedia Laboratory, CSE, Chinese University of Hong Kong, Hong Kong SAR.
+ - *2013.09 - 2018.06*, Student Research Assistant, CSE, Chinese University of Hong Kong, Hong Kong SAR.
  - *2018.09 - 2021.06*, Ph.D., Computer and Information Science, FST, University of Macau, Macau SAR (Supervisor: Prof. Chi-Man Pun).
- - *2019.03 - 2019.11*, Student Research Assisitant, Kakao Track, Yonsei University, korean.
+ - *2019.03 - 2019.11*, Student Research Assistant, Kakao Track, Yonsei University, Korean.
 
 # 💬 Invited Talks
 > ["A Song of Ice and Fire: Image Tampering Techniques in the Age of Large Generative Models"](https://www.bilibili.com/video/BV1sw411y7YR/?spm_id_from=333.337.search-card.all.click), [PRML 2023](http://www.prml.org/invited.html), Urumuqi, China.   
