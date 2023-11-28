@@ -46,11 +46,11 @@ He has pioneered the field of automatic filtering of video and live content for 
 
 
 # 📖 Educations
- >- *2013.06*, **Bsc.**, Software Engineering, FST, University of Macau, Macau SAR (Supervisor: Prof. Wen Wu).
- >- *2018.06*, **Msc.**, Software Engineering, FST, University of Macau, Macau SAR (Supervisor: Prof. Philip C.L. Chen).
- >- *2021.06*, **Ph.D.**, Computer and Information Science, FST, University of Macau, Macau SAR (Supervisor: Prof. Chi-Man Pun).
- - *2016.09 - 2018.06*, Student Research Assistant, CSE, Chinese University of Hong Kong, Hong Kong SAR.
- - *2019.03 - 2019.11*, Student Research Assistant, Kakao Track, Yonsei University, Korean.
+ >- *2013*, **Bsc.**, Software Engineering, FST, University of Macau, Macau SAR.
+ >- *2018*, **Msc.**, Software Engineering, FST, University of Macau, Macau SAR.
+ >- *2021*, **Ph.D.**, Computer and Information Science, FST, University of Macau, Macau SAR.
+ >- *2016 - 2018*, **Student Research Assistant**, CSE, Chinese University of Hong Kong, Hong Kong SAR.
+ >- *2019 - 2020*, **Student Research Assistant**, Kakao Track, Yonsei University, Korean.
 
 # 💬 Invited Talks
 > ["A Song of Ice and Fire: Image Tampering Techniques in the Age of Large Generative Models"](https://www.bilibili.com/video/BV1sw411y7YR/?spm_id_from=333.337.search-card.all.click), [PRML 2023](http://www.prml.org/invited.html), Urumuqi, China.   
