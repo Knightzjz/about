@@ -44,19 +44,16 @@ He has pioneered the field of automatic filtering of video and live content for 
 - ``TASLP`` [Towards Recognition for Radio-echo Speech in Air Traffic Control: Dataset and a Contrastive Learning Approach](https://ieeexplore.ieee.org/abstract/document/10225727/). Yi Lin, Qingyang Wang, Xincheng Yu, Zichen Zhang, Dongyue Guo, **Jizhe Zhou**.  <!---- **IEEE/ACM Transactions on Audio, Speech, and Language Processing.** -->
 - ``KBS`` [Exploring the first-move balance point of Go-Moku based on reinforcement learning and Monte Carlo tree search](https://www.sciencedirect.com/science/article/pii/S095070512201303X), Pengsen Liu, **Jizhe Zhou**, Jiancheng Lv
 
-
-
-# 🎖 Honors and Awards
-> Website is on building...
-
 # 📖 Educations
 > Website is on building...
-
-<!--- - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  --->
+ - *2008.08 - 2013.06*, Bachelor of Science, Software Engineering, FST, University of Macau, Macau SAR (Supervisor: Prof. Wen Wu).
+ - *2013.09 - 2018.06*, Master of Science, Software Engineering, FST, University of Macau, Macau SAR (Supervisor: Prof. Philip C.L. Chen).
+ - *2013.09 - 2018.06*, Student Research Assisitant, Multimedia Laboratory, CSE, Chinese University of Hong Kong, Hong Kong SAR.
+ - *2018.09 - 2021.06*, Ph.D., Computer and Information Science, FST, University of Macau, Macau SAR (Supervisor: Prof. Chi-Man Pun).
+ - *2019.03 - 2019.11*, Student Research Assisitant, Kakao Track, Yonsei University, korean.
 
 # 💬 Invited Talks
-> Website is on building...
+> PRML 2023,
 
 <!---
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
