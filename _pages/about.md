@@ -65,3 +65,22 @@ He has pioneered the field of automatic filtering of video and live content for 
 - Area Chair: ACM MM 2023
 - Reviewer: AAAI 2021, 2022; WWW 2021; ICLR 2022; ACM MM 2021, 20222, 2023; TCSVT; TIP; TMM; TNNLS. 
 
+# 📝 Supervised Students (2022-now)
+>- **Image Manipulation Localization**  
+-- [Xiaochen Ma](https://me.xiaochen.world/), Research Assitant in Sichuan University (Backbone Architecture for IML)    
+-- Bo Du, Undergradute Student in CS, Sichuan University (IML by Diffusion)    
+-- Xinyu Yang, Undergradute Student in CS, Sichuan University (Data Sythensize for IML)   
+-- Lei Su, Master Student in CS, Sichuan University (Anti-AIGC)  
+-- Mingxi Guo, Ph.D candindate in CIS, University of Macau (Anti-AIGC)    
+>- **Reasoning under DNN Architecture**
+-- [Yu Tong](https://eng.stu.edu.cn/info/1082/3025.htm), Lecture, Department of Computer Science and Technology, College of Engineering, Shantou Univerisity (Separation Inference)  
+-- Ruiyang Ni, Master Student in CS, Sichuan University (Graph Inference)  
+-- Bingkui Tong, Undergradute Student in CS, Sichuan University (Graph Inference)  
+-- Pengsen Liu, Ph.D student in lambda lab, Nanjing University (Game AI)
+>- **Image Generation and Indusctrial Detection**
+-- Jian Wang, Ph.D candindate in CS, Sichuan University (Image-to-Image Translation)   
+-- Jian Zhang, Master Student in CS, Sichuan University (Deblur)    
+-- Zhuohang Jiang, Undergradute Student in CS, Sichuan University (Flaw Detection)  
+-- Xuekang Zhu, Master Student in CS, Sichuan University (Game Avantar Generation)   
+-- Xiwen Wang, Master Student in CS, Sichuan University (Game Avantar Generation)    
+
