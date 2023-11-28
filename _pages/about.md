@@ -53,7 +53,9 @@ He has pioneered the field of automatic filtering of video and live content for 
  - *2019.03 - 2019.11*, Student Research Assisitant, Kakao Track, Yonsei University, korean.
 
 # 💬 Invited Talks
-> PRML 2023,
+> ["A Song of Ice and Fire: Image Tampering Techniques in the Age of Large Generative Models"](https://www.bilibili.com/video/BV1sw411y7YR/?spm_id_from=333.337.search-card.all.click), [PRML 2023](http://www.prml.org/invited.html), Urumuqi, China.
+> [如何为直播中的人脸自动打码](https://vs.scu.edu.cn/info/1021/1793.htm), Academic Salon (a.k.a Job Talk), Sichuan Unviersity 2021.
+> "Multi-Objects Online-Tracking", [University ML Camp Jeju 2019 (UMLC2019)](https://github.com/UniversityMLCampJeju/2019), Jeju Dao, Korean.
 
 <!---
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
