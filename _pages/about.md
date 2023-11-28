@@ -79,8 +79,8 @@ He has pioneered the field of automatic filtering of video and live content for 
 >4. Pengsen Liu, Ph.D student in lambda lab, Nanjing University (Game AI)
 - **Image Generation and Indusctrial Detection**
 >1. Jian Wang, Ph.D candindate in CS, Sichuan University (Image-to-Image Translation)   
->2. Jian Zhang, Master Student in CS, Sichuan University (Deblur)    
->3. Zhuohang Jiang, Undergradute Student in CS, Sichuan University (Flaw Detection)  
+>2. Jian Zhang, Master Student in CS, Sichuan University (Flaw Detection)    
+>3. Zhuohang Jiang, Undergradute Student in CS, Sichuan University (Deblur)  
 >4. Xuekang Zhu, Master Student in CS, Sichuan University (Game Avantar Generation)   
 >5. Xiwen Wang, Master Student in CS, Sichuan University (Game Avantar Generation)    
 
