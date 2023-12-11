@@ -32,10 +32,11 @@ He has pioneered the field of automatic filtering of video and live content for 
 ## Image Generation
 - ``TIFS`` [Personal privacy protection via irrelevant faces tracking and pixelation in video live streaming](https://ieeexplore.ieee.org/abstract/document/9218980/), **Jizhe Zhou**, Chi-Man Pun.
 - ``ACM MM 2020`` [Privacy-sensitive objects pixelation for live video streaming](https://dl.acm.org/doi/abs/10.1145/3394171.3413972), **Jizhe Zhou**, Chi-Man Pun, Yu Tong.
-- ``TNNLS`` [Shunting at Arbitrary Feature Levels via Spatial Disentanglement: Toward Selective Image Translation](https://ieeexplore.ieee.org/abstract/document/10153513/), Jian Wang, Xue Yang, Yuxin Tian, **Jizhe Zhou**, Jiancheng Lv.  
+- ``TNNLS`` [Shunting at Arbitrary Feature Levels via Spatial Disentanglement: Toward Selective Image Translation](https://ieeexplore.ieee.org/abstract/document/10153513/), Jian Wang, Xue Yang, Yuxin Tian, **Jizhe Zhou**, Jiancheng Lv.
+      
 ## Anti-Generation
 - ``ICCV 2023 (oral)`` [Pre-training-free Image Manipulation Localization through Non-Mutually Exclusive Contrastive Learning](https://openaccess.thecvf.com/content/ICCV2023/html/Zhou_Pre-Training-Free_Image_Manipulation_Localization_through_Non-Mutually_Exclusive_Contrastive_Learning_ICCV_2023_paper.html), **Jizhe Zhou**, Xiaochen Ma, Xia Du, Ahmed Y Alhammadi, Wentao Feng, [![](https://img.shields.io/github/stars/knightzjz/NCL-IML?style=social&label=Code+Stars)](https://github.com/knightzjz/NCL-IML)  
-- ``AAAI 2024`` [IML-ViT: Image Manipulation Localization by Vision Transformer](https://arxiv.org/abs/2307.14863). Xiaochen Ma, Bo Du, Zhuohang Jiang, Ahmed Y. Al Hammadi, **Jizhe Zhou**,  [![](https://img.shields.io/github/stars/knightzjz/NCL-IML?style=social&label=Code+Stars)](https://github.com/SunnyHaze/IML-ViT)        
+- ``AAAI 2024`` [IML-ViT: Image Manipulation Localization by Vision Transformer](https://arxiv.org/abs/2307.14863). Xiaochen Ma, Bo Du, Zhuohang Jiang, Ahmed Y. Al Hammadi, **Jizhe Zhou**,  [![](https://img.shields.io/github/stars/SunnyHaze/IML-ViT?style=social&label=Code+Stars)](https://github.com/SunnyHaze/IML-ViT)        
 - ``ACM MM 2023 (oral)`` [M2ATS: A Real-world Multimodal Air Traffic Situation Benchmark Dataset and Beyond](https://dl.acm.org/doi/abs/10.1145/3581783.3613759), Dongyue Guo, Yi Lin, Zheng Zhang, **Jizhe Zhou**.  
 
 ## Reasoning under DNN
