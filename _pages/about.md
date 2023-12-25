@@ -25,7 +25,7 @@ He has pioneered the field of automatic filtering of video and live content for 
 
 
 # 🔥 News
-- *2023.12*: &nbsp;🎉🎉 Our work "IML-ViT" is accepted by AAAI2024 !
+- *2023.12*: &nbsp;🎉🎉 Our latest bechmark model on IML: [IML-ViT](https://github.com/SunnyHaze/IML-ViT), is now Fully-Opensourced !
 
 # 📝 Selected Publications 
 
