@@ -37,7 +37,7 @@ He has pioneered the field of automatic filtering of video and live content for 
       
 ## Anti-Generation
 - ``ICCV 2023 (oral)`` [Pre-training-free Image Manipulation Localization through Non-Mutually Exclusive Contrastive Learning](https://openaccess.thecvf.com/content/ICCV2023/html/Zhou_Pre-Training-Free_Image_Manipulation_Localization_through_Non-Mutually_Exclusive_Contrastive_Learning_ICCV_2023_paper.html), **Jizhe Zhou**, Xiaochen Ma, Xia Du, Ahmed Y Alhammadi, Wentao Feng, [![](https://img.shields.io/github/stars/knightzjz/NCL-IML?style=social&label=Code+Stars)](https://github.com/knightzjz/NCL-IML)  
-- ``AAAI 2024`` [IML-ViT: Image Manipulation Localization by Vision Transformer](https://arxiv.org/abs/2307.14863). Xiaochen Ma, Bo Du, Zhuohang Jiang, Ahmed Y. Al Hammadi, **Jizhe Zhou**,  [![](https://img.shields.io/github/stars/SunnyHaze/IML-ViT?style=social&label=Code+Stars)](https://github.com/SunnyHaze/IML-ViT)        
+- ``TBD`` [IML-ViT: Image Manipulation Localization by Vision Transformer](https://arxiv.org/abs/2307.14863). Xiaochen Ma, Bo Du, Zhuohang Jiang, Ahmed Y. Al Hammadi, **Jizhe Zhou**,  [![](https://img.shields.io/github/stars/SunnyHaze/IML-ViT?style=social&label=Code+Stars)](https://github.com/SunnyHaze/IML-ViT)        
 - ``ACM MM 2023 (oral)`` [M2ATS: A Real-world Multimodal Air Traffic Situation Benchmark Dataset and Beyond](https://dl.acm.org/doi/abs/10.1145/3581783.3613759), Dongyue Guo, Yi Lin, Zheng Zhang, **Jizhe Zhou**.  
 
 ## Reasoning under DNN
@@ -65,8 +65,8 @@ He has pioneered the field of automatic filtering of video and live content for 
  --->
 # 📝 Academic Services
 >- Area Chair: ACM MM 2023
->- Advocacy Chair: CSAI 2023  
->- Techinal Program Committee: PRML 2023  
+>- Publicity Chair: CSAI 2023  
+>- Technical Program Committee: PRML 2023  
 >- Program Committee: AAAI 2021 & 2022, WWW 2021, ICLR 2022, ACM MM 2021 & 2022 & 2023, TCSVT, TIP, TMM, TNNLS, etc.. 
 
 # 📝 Supervised Students (2022-now)
@@ -75,7 +75,7 @@ He has pioneered the field of automatic filtering of video and live content for 
 >2. Bo Du, Undergraduate Student in CS, Sichuan University (IML by Diffusion)    
 >3. Xinyu Yang, Undergraduate Student in CS, Sichuan University (Data Sythensize for IML)   
 >4. Lei Su, Master Student in CS, Sichuan University (Anti-AIGC)  
->5. Mingxi Guo, Ph.D Candindate in CIS, University of Macau (Anti-AIGC)    
+>5. Mingxi Guo, Ph.D Candidate in CIS, University of Macau (Anti-AIGC)    
 - **Reasoning under DNN Architecture**  
 >1. [Yu Tong](https://eng.stu.edu.cn/info/1082/3025.htm), Lecture, Department of Computer Science and Technology, College of Engineering, Shantou Univerisity (Separation Inference)  
 >2. Ruiyang Ni, Master Student in CS, Sichuan University (Graph Inference)  
