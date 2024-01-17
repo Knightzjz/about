@@ -19,9 +19,9 @@ redirect_from:
 
 Jizhe Zhou (周吉喆), Associate Professor at the School of Computer Science, Sichuan University. He obtained his Ph.D. (early graduation) from the University of Macau in 2021. Starting from his undergraduate studies, he has pursued education and lived in three prominent locations: Macau, Hong Kong, and South Korea. In 2021, he was recruited as a specially appointed Associate Professor by Sichuan University.
 
-Jizhe Zhou's primary research areas include the foundational architecture and theory of deep neural networks, the application of deep learning in the field of multimedia content security, and exploration in the domain of video synthesis. He has published multiple papers as the first author or sole corresponding author in top international conferences with total <a href='https://scholar.google.com/citations?user=-cNWmJMAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> google scholar citations in the field of multimedia, such as ACM Multimedia, the International Conference on Computational Linguistics (ACL), the International Joint Conference on Artificial Intelligence (IJCAI) , and the International Journal of Information Forensics and Security (TIFS).
+Jizhe Zhou's primary research areas include the foundational architecture and theory of deep neural networks, the application of deep learning in the field of multimedia content security, and exploration in the domain of video synthesis. He has published multiple papers as the first author or sole corresponding author in top international conferences with total <a href='https://scholar.google.com/citations?user=-cNWmJMAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> google scholar citations in the field of multimedia, such as ACM Multimedia, the International Conference on Computational Linguistics (ACL), the International Joint Conference on Artificial Intelligence (IJCAI), and the International Journal of Information Forensics and Security (TIFS).
 
-He has pioneered the field of automatic filtering of video and live content for the purpose of content security, expanding the application of deep learning in the realm of multimedia content security. He has also led the trend of using systematic deep learning frameworks for video privacy protection, information filtering, and information forensics. Jizhe Zhou has been involved in one joint project funded by the Ministry of Science and Technology of China and the Macau Foundation for the Development of Science and Technology (FDCT), as well as three research projects funded by FDCT.    
+He has pioneered the field of automatic filtering of video and live content for content security, expanding the application of deep learning in multimedia content security. He has also led the trend of using systematic deep-learning frameworks for video privacy protection, information filtering, and information forensics. Jizhe Zhou has been involved in one joint project funded by the Ministry of Science and Technology of China and the Macau Foundation for the Development of Science and Technology (FDCT), as well as three research projects funded by FDCT.    
 
 周吉喆，四川大学计算机学院副教授，主要擅长场景理解与非语义学习方向，长期招收AI+CV方向solid background and self-motivated的研究生与本科生（限川大），组内各研究方向详见Supervised Students部分，欢迎联系邮件 jzzhou@scu.edu.cn。
 
@@ -43,7 +43,7 @@ He has pioneered the field of automatic filtering of video and live content for 
 ## Reasoning under DNN
 - ``ACL 2022`` [Word Segmentation by Separation Inference for East Asian Languages](https://aclanthology.org/2022.findings-acl.309/), Yu Tong, Jingzhi Guo, **Jizhe Zhou**, Ge Chen, Guokai Zheng.
 - ``IJCAI 2022``[Abstract rule learning for paraphrase generation](https://ijcai-22.org/main-track-accepted-papers/), Xianggen Liu, Wenqiang Lei, Jiancheng Lv, **Jizhe Zhou**.
-- ``TASLP`` [Separation inference: A unified framework for word segmentation in east asian languages](https://ieeexplore.ieee.org/abstract/document/9740431), Yu Tong, Jingzhi Guo, **Jizhe Zhou**.
+- ``TASLP`` [Separation inference: A unified framework for word segmentation in east Asian languages](https://ieeexplore.ieee.org/abstract/document/9740431), Yu Tong, Jingzhi Guo, **Jizhe Zhou**.
 - ``TASLP`` [Towards Recognition for Radio-echo Speech in Air Traffic Control: Dataset and a Contrastive Learning Approach](https://ieeexplore.ieee.org/abstract/document/10225727/). Yi Lin, Qingyang Wang, Xincheng Yu, Zichen Zhang, Dongyue Guo, **Jizhe Zhou**.  <!---- **IEEE/ACM Transactions on Audio, Speech, and Language Processing.** -->
 
 
@@ -55,7 +55,7 @@ He has pioneered the field of automatic filtering of video and live content for 
  >- *2019 - 2020*, **Student Research Assistant**, Kakao Track, Yonsei University, Korean.
 
 # 💬 Invited Talks
-> ["A Song of Ice and Fire: Image Tampering Techniques in the Age of Large Generative Models"](https://www.bilibili.com/video/BV1sw411y7YR/?spm_id_from=333.337.search-card.all.click), [PRML 2023](http://www.prml.org/invited.html), Urumuqi, China.   
+> ["A Song of Ice and Fire: Image Tampering Techniques in the Age of Large Generative Models"](https://www.bilibili.com/video/BV1sw411y7YR/?spm_id_from=333.337.search-card.all.click), [PRML 2023](http://www.prml.org/invited.html), Urumqi, China.   
 > ["如何为直播中的人脸自动打码"](https://vs.scu.edu.cn/info/1021/1793.htm), Academic Salon (a.k.a Job Talk), Sichuan Unviersity 2021.   
 > ["Multi-Object Online-Tracking"](https://github.com/UniversityMLCampJeju/2019), University ML Camp (UMLC2019), Jeju, Korean.   
 
@@ -71,19 +71,19 @@ He has pioneered the field of automatic filtering of video and live content for 
 
 # 📝 Supervised Students (2022-now)
 - **Image Manipulation Localization**  
->1. [Xiaochen Ma](https://me.xiaochen.world/), Research Assistant in Sichuan University (Backbone Architecture for IML)    
+>1. [Xiaochen Ma](https://me.xiaochen.world/), Research Assistant at Sichuan University (Backbone Architecture for IML)    
 >2. Bo Du, Undergraduate Student in CS, Sichuan University (IML by Diffusion)    
 >3. Xinyu Yang, Undergraduate Student in CS, Sichuan University (Data Sythensize for IML)   
 >4. Lei Su, Master Student in CS, Sichuan University (Anti-AIGC)  
->5. Mingxi Guo, Ph.D Candidate in CIS, University of Macau (Anti-AIGC)    
+>5. Mingxi Guo, Ph.D. Candidate in CIS, University of Macau (Anti-AIGC)    
 - **Reasoning under DNN Architecture**  
 >1. [Yu Tong](https://eng.stu.edu.cn/info/1082/3025.htm), Lecture, Department of Computer Science and Technology, College of Engineering, Shantou Univerisity (Separation Inference)  
 >2. Ruiyang Ni, Master Student in CS, Sichuan University (Graph Inference)  
 >3. Bingkui Tong, Undergraduate Student in CS, Sichuan University (Graph Inference)  
 >4. Pengsen Liu, Ph.D Student in Lambda Lab, Nanjing University (Game AI)
-- **Image Generation and Indusctrial Detection**
->1. Jian Wang, Ph.D Candindate in CS, Sichuan University (Image-to-Image Translation)   
->2. Jian Zhang, Master Student in CS, Sichuan University (Flaw Detection)    
+- **Image Generation and Industrial Detection**
+>1. Jian Wang, Ph.D. Candidate in CS, Sichuan University (Image-to-Image Translation)   
+>2. Jian Zhang, Master Student in CS, Sichuan University (Defect Detection)    
 >3. Zhuohang Jiang, Undergraduate Student in CS, Sichuan University (Deblur)  
 >4. Xuekang Zhu, Master Student in CS, Sichuan University (Game Avatar Generation)   
 
