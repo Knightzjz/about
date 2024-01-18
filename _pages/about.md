@@ -37,7 +37,7 @@ He has pioneered the field of automatic filtering of video and live content for 
       
 ## Anti-Generation
 - ``ICCV 2023 (oral)`` [Pre-training-free Image Manipulation Localization through Non-Mutually Exclusive Contrastive Learning](https://openaccess.thecvf.com/content/ICCV2023/html/Zhou_Pre-Training-Free_Image_Manipulation_Localization_through_Non-Mutually_Exclusive_Contrastive_Learning_ICCV_2023_paper.html), **Jizhe Zhou**, Xiaochen Ma, Xia Du, Ahmed Y Alhammadi, Wentao Feng, [![](https://img.shields.io/github/stars/knightzjz/NCL-IML?style=social&label=Code+Stars)](https://github.com/knightzjz/NCL-IML)  
-- ``TBD`` [IML-ViT: Image Manipulation Localization by Vision Transformer](https://arxiv.org/abs/2307.14863). Xiaochen Ma, Bo Du, Zhuohang Jiang, Ahmed Y. Al Hammadi, **Jizhe Zhou**,  [![](https://img.shields.io/github/stars/SunnyHaze/IML-ViT?style=social&label=Code+Stars)](https://github.com/SunnyHaze/IML-ViT)        
+- ``To Appear`` [IML-ViT: Image Manipulation Localization by Vision Transformer](https://arxiv.org/abs/2307.14863). Xiaochen Ma, Bo Du, Zhuohang Jiang, Ahmed Y. Al Hammadi, **Jizhe Zhou**,  [![](https://img.shields.io/github/stars/SunnyHaze/IML-ViT?style=social&label=Code+Stars)](https://github.com/SunnyHaze/IML-ViT)        
 - ``ACM MM 2023 (oral)`` [M2ATS: A Real-world Multimodal Air Traffic Situation Benchmark Dataset and Beyond](https://dl.acm.org/doi/abs/10.1145/3581783.3613759), Dongyue Guo, Yi Lin, Zheng Zhang, **Jizhe Zhou**.  
 
 ## Reasoning under DNN
