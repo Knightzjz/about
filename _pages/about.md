@@ -80,7 +80,7 @@ He has pioneered the field of automatic filtering of video and live content for 
 >1. [Yu Tong](https://eng.stu.edu.cn/info/1082/3025.htm), Lecture, Department of Computer Science and Technology, College of Engineering, Shantou Univerisity (Separation Inference)  
 >2. Ruiyang Ni, Master Student in CS, Sichuan University (Graph Inference)  
 >3. Bingkui Tong, Undergraduate Student in CS, Sichuan University (Graph Inference)
->4. Pengsen Liu, Ph.D Student in Lambda Lab, Nanjing University (Game AI)
+>4. Pengsen Liu, Ph.D Student in Lamda Lab, Nanjing University (Game AI)
 >5. Zeyu Lei,  Undergraduate Student in CS, Honor College, Sichuan University (Fine-grained Classification)
 - **Image Generation and Industrial Detection**
 >1. Jian Wang, Ph.D. Candidate in CS, Sichuan University (Image-to-Image Translation)   
