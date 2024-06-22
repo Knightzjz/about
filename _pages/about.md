@@ -23,10 +23,11 @@ Jizhe Zhou's primary research areas include the foundational architecture and th
 
 He has pioneered the field of automatic filtering of video and live content for content security, expanding the application of deep learning in multimedia content security. He has also led the trend of using systematic deep-learning frameworks for video privacy protection, information filtering, and information forensics. Jizhe Zhou has been involved in one joint project funded by the Ministry of Science and Technology of China and the Macau Foundation for the Development of Science and Technology (FDCT), as well as three research projects funded by FDCT.    
 
-周吉喆，四川大学计算机学院副教授，主要擅长场景理解与非语义学习方向，长期招收AI+CV方向solid background and self-motivated的研究生与本科生（限川大），组内各研究方向详见Supervised Students部分，欢迎联系邮件 jzzhou@scu.edu.cn。
+周吉喆，四川大学计算机学院副教授，主要擅长篡改检测与非语义学习方向，长期招收AI+CV方向solid background and self-motivated的研究生与本科生（限川大），组内各研究方向详见Supervised Students部分，欢迎联系邮件 jzzhou@scu.edu.cn。
 
 # 🔥 News
-- *2023.12*: &nbsp;🎉🎉 Our latest bechmark model on IML: [IML-ViT](https://github.com/SunnyHaze/IML-ViT), is now Fully-Opensourced !
+- *2024.06*: &nbsp;🎉🎉 Our comprehensive benchmark and modular codebase on IML (addressing the model evaluation), [IMDL-BenCo](https://github.com/scu-zjz/IMDLBenCo), is now fully released and under long-term maintenance and construction.
+- *2024.06*: &nbsp;🎉🎉 Our latest framework and benchmark model on private object detection, [PrivacyGuard](https://arxiv.org/pdf/2406.12736), is now online; the code and training dataset will soon be available!
 
 # 📝 Selected Publications 
 
