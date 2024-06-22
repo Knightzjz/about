@@ -26,8 +26,9 @@ He has pioneered the field of automatic filtering of video and live content for 
 周吉喆，四川大学计算机学院副教授，主要擅长篡改检测与非语义学习方向，长期招收AI+CV方向solid background and self-motivated的研究生与本科生（限川大），组内各研究方向详见Supervised Students部分，欢迎联系邮件 jzzhou@scu.edu.cn。
 
 # 🔥 News
-- *2024.06*: &nbsp;🎉🎉 Our comprehensive benchmark and modular codebase on IML (addressing the model evaluation), [IMDL-BenCo](https://github.com/scu-zjz/IMDLBenCo), is now fully released and under long-term maintenance and construction.
-- *2024.06*: &nbsp;🎉🎉 Our latest framework and benchmark model on private object detection, [PrivacyGuard](https://arxiv.org/pdf/2406.12736), is now online; the code and training dataset will soon be available!
+- *2024.06*: &nbsp;🎉🎉 Our comprehensive benchmark and modular codebase on IML (addressing the model evaluation), [IMDL-BenCo](https://github.com/scu-zjz/IMDLBenCo), is now fully released and under long-term maintenance and construction!  
+- *2024.06*: &nbsp;🎉🎉 Our latest framework and benchmark model on private object detection, [PrivacyGuard](https://arxiv.org/pdf/2406.12736), is now online; the code and training dataset will soon be available!  
+- *2023.12*: &nbsp;🎉🎉 Our latest benchmark model on IML, [IML-ViT](https://github.com/SunnyHaze/IML-ViT), is now fully outsourced!  
 
 # 📝 Selected Publications 
 
