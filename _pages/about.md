@@ -51,14 +51,16 @@ Hi, there:
 - ``TASLP`` [Towards Recognition for Radio-echo Speech in Air Traffic Control: Dataset and a Contrastive Learning Approach](https://ieeexplore.ieee.org/abstract/document/10225727/). Yi Lin, Qingyang Wang, Xincheng Yu, Zichen Zhang, Dongyue Guo, **Jizhe Zhou**.  <!---- **IEEE/ACM Transactions on Audio, Speech, and Language Processing.** -->
 
 
-# 📖 Educations
+# 📖 Educations  
+
  >- *2013*, **Bsc.**, Software Engineering, FST, University of Macau, Macau SAR.
  >- *2018*, **Msc.**, Software Engineering, FST, University of Macau, Macau SAR.
  >- *2021*, **Ph.D.**, Computer and Information Science, FST, University of Macau, Macau SAR.
  >- *2016 - 2018*, **Student Research Assistant**, CSE, Chinese University of Hong Kong, Hong Kong SAR.
  >- *2019 - 2020*, **Student Research Assistant**, Kakao Track, Yonsei University, Korean.
 
-# 💬 Invited Talks
+# 💬 Invited Talks  
+
 > ["A Song of Ice and Fire: Image Tampering Techniques in the Age of Large Generative Models"](https://www.bilibili.com/video/BV1sw411y7YR/?spm_id_from=333.337.search-card.all.click), [PRML 2023](http://www.prml.org/invited.html), Urumqi, China.   
 > ["如何为直播中的人脸自动打码"](https://vs.scu.edu.cn/info/1021/1793.htm), Academic Salon (a.k.a Job Talk), Sichuan Unviersity 2021.   
 > ["Multi-Object Online-Tracking"](https://github.com/UniversityMLCampJeju/2019), University ML Camp (UMLC2019), Jeju, Korean.   
@@ -67,13 +69,15 @@ Hi, there:
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
  --->
-# 📝 Academic Services
+# 📝 Academic Services  
+
 >- Area Chair: ACM MM 2023
 >- Publicity Chair: CSAI 2023  
 >- Technical Program Committee: PRML 2023  
 >- Program Committee: AAAI 2021 & 2022, WWW 2021, ICLR 2022, ACM MM 2021 & 2022 & 2023, TCSVT, TIP, TMM, TNNLS, etc.. 
 
-# 📝 Supervised Students (2022-now)
+# 📝 Supervised Students (2022-now)  
+
 - **Image Manipulation Localization**  
 >1. [Xiaochen Ma](https://me.xiaochen.world/), Research Assistant at Sichuan University [Now Ph.D student in MBZUAI, UAE] (Backbone Architecture for IML).   
 >2. Bo Du, Graduate Student in CS, Sichuan University (IML by Diffusion)    
