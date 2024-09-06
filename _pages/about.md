@@ -24,12 +24,12 @@ Hi, there:
 # 🔥 News
 - ``Competition`` *2024.09*: &nbsp;🎉🎉 We won the *First Price* in  **``Tecent AI Arena competition (腾讯开悟比赛多智能体博弈赛道)``**, meaning  *1/2000+* . Both of our teams are advanced to the grand finals, check "[Award List of Tecent AI Arena 2024](https://pre-prod.kaiwu.pvp.qq.com/aiarena/zh/match/open-competition-2024?tab=score)" for details.   
 - ``Publication`` *2024.07*: &nbsp;🎉🎉 Two of our works on image generation are accepted as *oral* in *ACM MM2024*! Code and paper will soon be available!
-- ``A&S Service`` *2024.06*: Appointed as the *Program Committee Member* for *AAAI24*.  
+- ``S&A Service`` *2024.06*: Appointed as the *Program Committee Member* for *AAAI24*.  
 - ``Publication`` *2024.06*: &nbsp;🎉🎉 Our comprehensive benchmark and modular codebase on IML (addressing the model evaluation), [IMDL-BenCo](https://github.com/scu-zjz/IMDLBenCo)[![](https://img.shields.io/github/stars/scu-zjz/IMDLBenCo?style=social&label=Code+Stars)](https://github.com/scu-zjz/IMDLBenCo), is now fully released and under long-term maintenance and construction!  
 - ``Publication`` *2024.06*: &nbsp;🎉🎉 Our latest framework and benchmark model on private object detection, [PrivacyGuard](https://arxiv.org/pdf/2406.12736), is now online; the code and training dataset will soon be available!
-- ``A&S Service``*2024.04*: Appointed as the *Program Committee Member* for *NIPS24*.
-- ``A&S Service`` *2024.02*: Appointed as the *Program Committee Member* for *ECCV24*. 
-- ``A&S Service`` *2024.01*: Appointed as the *Area Chair* for *MM24*. 
+- ``S&A Service``*2024.04*: Appointed as the *Program Committee Member* for *NIPS24*.
+- ``S&A Service`` *2024.02*: Appointed as the *Program Committee Member* for *ECCV24*. 
+- ``S&A Service`` *2024.01*: Appointed as the *Area Chair* for *MM24*. 
 - ``Publication`` *2023.12*: &nbsp;🎉🎉 Our latest benchmark model on IML, [IML-ViT](https://github.com/SunnyHaze/IML-ViT), is now fully outsourced!  
 
 # 📝 Selected Publications 
