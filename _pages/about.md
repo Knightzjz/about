@@ -27,7 +27,7 @@ Hi, there:
 - ``S&A Service`` *2024.06*: Appointed as the *Program Committee Member* for *AAAI24*.  
 - ``Publication`` *2024.06*: &nbsp;🎉🎉 Our comprehensive benchmark and modular codebase on IML (addressing the model evaluation), [IMDL-BenCo](https://github.com/scu-zjz/IMDLBenCo)[![](https://img.shields.io/github/stars/scu-zjz/IMDLBenCo?style=social&label=Code+Stars)](https://github.com/scu-zjz/IMDLBenCo), is now fully released and under long-term maintenance and construction!  
 - ``Publication`` *2024.06*: &nbsp;🎉🎉 Our latest framework and benchmark model on private object detection, [PrivacyGuard](https://arxiv.org/pdf/2406.12736), is now online; the code and training dataset will soon be available!
-- ``S&A Service``*2024.04*: Appointed as the *Program Committee Member* for *NIPS24*.
+- ``S&A Service`` *2024.04*: Appointed as the *Program Committee Member* for *NIPS24*.
 - ``S&A Service`` *2024.02*: Appointed as the *Program Committee Member* for *ECCV24*. 
 - ``S&A Service`` *2024.01*: Appointed as the *Area Chair* for *MM24*. 
 - ``Publication`` *2023.12*: &nbsp;🎉🎉 Our latest benchmark model on IML, [IML-ViT](https://github.com/SunnyHaze/IML-ViT), is now fully outsourced!  
