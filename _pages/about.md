@@ -16,9 +16,8 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-# 🏊‍♂️ About Me
 Hi, there:   
-&nbsp;&nbsp;&nbsp;&nbsp;I'm Jizhe Zhou (周吉喆), Associate Professor at the School of Computer Science, Sichuan University. I obtained my Ph.D. (early graduation) from the University of Macau in 2021. My primary research areas are the self-supervised learning theories and the multimedia content security. I am the first or corresponding author for many top conferences and IEEE transactions, including ICCV, NIPS, ACM MM, ACL, IJCAI, AAAI, etc,. Four of them are oral papers, 1 in ICCV, 3 in ACM MM. My publication recieved a total <a href='https://scholar.google.com/citations?user=-cNWmJMAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> citations.   
+&nbsp;&nbsp;&nbsp;&nbsp;I'm Jizhe Zhou (周吉喆)🏊‍♂️, Associate Professor at the School of Computer Science, Sichuan University. I obtained my Ph.D. (early graduation) from the University of Macau in 2021. My primary research areas are the self-supervised learning theories and the multimedia content security. I am the first or corresponding author for many top conferences and IEEE transactions, including ICCV, NIPS, ACM MM, ACL, IJCAI, AAAI, etc,. Four of them are oral papers, 1 in ICCV, 3 in ACM MM. My publication recieved a total <a href='https://scholar.google.com/citations?user=-cNWmJMAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> citations.   
 
 &nbsp;&nbsp;&nbsp;&nbsp;周吉喆，四川大学计算机学院副教授，主要擅长内容安全和自监督学习方向，长期招收AI+CV方向solid background and self-motivated的研究生与本科生（限川大），组内各研究方向详见Supervised Students部分，欢迎联系邮件 jzzhou@scu.edu.cn 。   
 
