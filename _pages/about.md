@@ -16,18 +16,17 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-Hi there:  
-I'm Jizhe Zhou (周吉喆), Associate Professor at the School of Computer Science, Sichuan University. I obtained my Ph.D. (early graduation) from the University of Macau in 2021. Starting from my undergraduate studies, I has pursued education and lived in three prominent locations: Macau, Hong Kong, and South Korea. In 2021, I was recruited as the Associate Professor by Sichuan University.
+Hi, there:   
+I'm Jizhe Zhou (周吉喆), Associate Professor at the School of Computer Science, Sichuan University. 
+I obtained my Ph.D. (early graduation) from the University of Macau in 2021. Starting from my undergraduate studies, I has pursued education and lived in three prominent locations: Macau, Hong Kong, and South Korea. I was appointed as the Associate Professor by Sichuan University in 2021.   
 
-My primary research areas include the foundational architecture and theory of deep neural networks, the application of deep learning in the field of multimedia content security, and exploration in the domain of video synthesis. I have published multiple papers as the first author or sole corresponding author in top international conferences with total <a href='https://scholar.google.com/citations?user=-cNWmJMAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> google scholar citations in the field of multimedia, such as ICCV NIPS, ACM MM, ACL, IJCAI, AAAI. Four of them are oral papers, 1 in ICCV, 3 in ACM MM.
+My primary research areas are the architecture and theory of deep neural networks, the application of deep learning in the field of multimedia content security, and the domain of video synthesis. I am the first or corresponding author for many Top conferences and IEEE transactions, including ICCV, NIPS, ACM MM, ACL, IJCAI, AAAI, etc,. Four of them are oral papers, 1 in ICCV, 3 in ACM MM. My publication recieved a total <a href='https://scholar.google.com/citations?user=-cNWmJMAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> citations.   
 
-I major in the field of content security, expanding the application of deep learning in multimedia content security. Check the "supervised students" section or my scholar information to reach my detailed research dierections.
-
-周吉喆，四川大学计算机学院副教授，主要擅长内容安全和自监督学习方向，长期招收AI+CV方向solid background and self-motivated的研究生与本科生（限川大），组内各研究方向详见Supervised Students部分，欢迎联系邮件 jzzhou@scu.edu.cn。
+周吉喆，四川大学计算机学院副教授，主要擅长内容安全和自监督学习方向，长期招收AI+CV方向solid background and self-motivated的研究生与本科生（限川大），组内各研究方向详见Supervised Students部分，欢迎联系邮件 jzzhou@scu.edu.cn 。   
 
 # 🔥 News
-- *2024.09*  &nbsp;🎉🎉 We won the first price in "Tecent AI Arena" competition (腾讯开悟比赛多智能体博弈赛道), meaning 1/2000+. Both of our teams are advanced to the grand finals, check "[Award List of Tecent AI Arena 2024](https://pre-prod.kaiwu.pvp.qq.com/aiarena/zh/match/open-competition-2024?tab=score)" for details.
-- *2024.07*: &nbsp;🎉🎉 Two of our works on image generation have been both accepted as oral in ACM MM2024! Code and paper will soon be available!  
+- *2024.09*  &nbsp;🎉🎉 We won the *First Price* in  ``"Tecent AI Arena" competition (腾讯开悟比赛多智能体博弈赛道) ``, meaning  *1/2000+* . Both of our teams are advanced to the grand finals, check "[Award List of Tecent AI Arena 2024](https://pre-prod.kaiwu.pvp.qq.com/aiarena/zh/match/open-competition-2024?tab=score)" for details.   
+- *2024.07*: &nbsp;🎉🎉 Two of our works on image generation have been both accepted as *oral* in *ACM MM2024*! Code and paper will soon be available!  
 - *2024.06*: &nbsp;🎉🎉 Our comprehensive benchmark and modular codebase on IML (addressing the model evaluation), [IMDL-BenCo](https://github.com/scu-zjz/IMDLBenCo)[![](https://img.shields.io/github/stars/scu-zjz/IMDLBenCo?style=social&label=Code+Stars)](https://github.com/scu-zjz/IMDLBenCo), is now fully released and under long-term maintenance and construction!  
 - *2024.06*: &nbsp;🎉🎉 Our latest framework and benchmark model on private object detection, [PrivacyGuard](https://arxiv.org/pdf/2406.12736), is now online; the code and training dataset will soon be available!  
 - *2023.12*: &nbsp;🎉🎉 Our latest benchmark model on IML, [IML-ViT](https://github.com/SunnyHaze/IML-ViT), is now fully outsourced!  
@@ -46,7 +45,7 @@ I major in the field of content security, expanding the application of deep lear
 
 ## Reasoning under DNN
 - ``ACL 2022`` [Word Segmentation by Separation Inference for East Asian Languages](https://aclanthology.org/2022.findings-acl.309/), Yu Tong, Jingzhi Guo, **Jizhe Zhou**, Ge Chen, Guokai Zheng.
-- ``IJCAI 2022``[Abstract rule learning for paraphrase generation](https://ijcai-22.org/main-track-accepted-papers/), Xianggen Liu, Wenqiang Lei, Jiancheng Lv, **Jizhe Zhou**.
+- ``IJCAI 2022`` [Abstract rule learning for paraphrase generation](https://ijcai-22.org/main-track-accepted-papers/), Xianggen Liu, Wenqiang Lei, Jiancheng Lv, **Jizhe Zhou**.
 - ``TASLP`` [Separation inference: A unified framework for word segmentation in east Asian languages](https://ieeexplore.ieee.org/abstract/document/9740431), Yu Tong, Jingzhi Guo, **Jizhe Zhou**.
 - ``TASLP`` [Towards Recognition for Radio-echo Speech in Air Traffic Control: Dataset and a Contrastive Learning Approach](https://ieeexplore.ieee.org/abstract/document/10225727/). Yi Lin, Qingyang Wang, Xincheng Yu, Zichen Zhang, Dongyue Guo, **Jizhe Zhou**.  <!---- **IEEE/ACM Transactions on Audio, Speech, and Language Processing.** -->
 
