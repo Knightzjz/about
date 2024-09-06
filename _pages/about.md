@@ -17,10 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 Hi, there:   
-I'm Jizhe Zhou (周吉喆), Associate Professor at the School of Computer Science, Sichuan University. 
-I obtained my Ph.D. (early graduation) from the University of Macau in 2021. Starting from my undergraduate studies, I has pursued education and lived in three prominent locations: Macau, Hong Kong, and South Korea. I was appointed as the Associate Professor by Sichuan University in 2021.   
-
-My primary research areas are the architecture and theory of deep neural networks, the application of deep learning in the field of multimedia content security, and the domain of video synthesis. I am the first or corresponding author for many Top conferences and IEEE transactions, including ICCV, NIPS, ACM MM, ACL, IJCAI, AAAI, etc,. Four of them are oral papers, 1 in ICCV, 3 in ACM MM. My publication recieved a total <a href='https://scholar.google.com/citations?user=-cNWmJMAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> citations.   
+  I'm Jizhe Zhou (周吉喆), Associate Professor at the School of Computer Science, Sichuan University. I obtained my Ph.D. (early graduation) from the University of Macau in 2021. My primary research areas are the self-supervised learning theories and the multimedia content security. I am the first or corresponding author for many top conferences and IEEE transactions, including ICCV, NIPS, ACM MM, ACL, IJCAI, AAAI, etc,. Four of them are oral papers, 1 in ICCV, 3 in ACM MM. My publication recieved a total <a href='https://scholar.google.com/citations?user=-cNWmJMAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> citations.   
 
 周吉喆，四川大学计算机学院副教授，主要擅长内容安全和自监督学习方向，长期招收AI+CV方向solid background and self-motivated的研究生与本科生（限川大），组内各研究方向详见Supervised Students部分，欢迎联系邮件 jzzhou@scu.edu.cn 。   
 
