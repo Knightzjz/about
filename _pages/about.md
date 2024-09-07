@@ -17,21 +17,20 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-&nbsp;&nbsp;&nbsp;&nbsp;⛹️‍♂️Ji-Zhe Zhou (周吉喆)🏊‍♂️, Associate Professor at the School of Computer Science, Sichuan University. I obtained my Ph.D. (early graduation) from the University of Macau in 2021. My primary research areas are the self-supervised learning theories and multimedia content security. I am the first or corresponding author for many top conferences and IEEE transactions, including ICCV, NIPS, ACM MM, ACL, IJCAI, AAAI, etc,. Four of them are oral papers, 1 in ICCV, 3 in ACM MM. My publication recieved a total <a href='https://scholar.google.com/citations?user=-cNWmJMAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> citations.   
+⛹️‍♂️Ji-Zhe Zhou (周吉喆)🏊‍♂️, Associate Professor at the School of Computer Science, Sichuan University. I obtained my Ph.D. (early graduation) from the University of Macau in 2021. My primary research areas are the self-supervised learning theories and multimedia content security. I am the first or corresponding author for many top conferences and IEEE transactions, including ICCV, NIPS, ACM MM, ACL, IJCAI, AAAI, etc,. Four of them are oral papers, 1 in ICCV, 3 in ACM MM. My publication recieved a total <a href='https://scholar.google.com/citations?user=-cNWmJMAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> citations.   
 
-&nbsp;&nbsp;&nbsp;&nbsp;周吉喆，四川大学计算机学院副教授，主要擅长内容安全和自监督学习方向，长期招收AI+CV方向solid background and self-motivated的研究生与本科生（限川大），组内各研究方向详见Supervised Students部分，欢迎联系邮件 jzzhou@scu.edu.cn 。   
+周吉喆，四川大学计算机学院副教授，主要擅长内容安全和自监督学习方向，长期招收AI+CV方向solid background and self-motivated的研究生与本科生（限川大），组内各研究方向详见Supervised Students部分，欢迎联系邮件 jzzhou@scu.edu.cn 。   
 
 # 🔥 News  
 
-- ``Competition`` *2024.09*: &nbsp;🎉🎉 We won the *First Price* in  **``Tecent AI Arena Competition (腾讯开悟比赛多智能体博弈赛道)``**, meaning  *1/2000+* . Both of our teams are advanced to the grand finals, check "[Award List of Tecent AI Arena 2024](https://pre-prod.kaiwu.pvp.qq.com/aiarena/zh/match/open-competition-2024?tab=score)" for details.   
-- ``Publication`` *2024.07*: &nbsp;🎉🎉 Two of our works on image generation are accepted as *oral* in *ACM MM2024*! Code and paper will soon be available!
-- ``A&S Service`` *2024.06*: Appointed as the *Program Committee Member* for *AAAI24*.  
-- ``Publication`` *2024.06*: &nbsp;🎉🎉 Our comprehensive benchmark and modular codebase on IML (addressing the model evaluation), [IMDL-BenCo](https://github.com/scu-zjz/IMDLBenCo)[![](https://img.shields.io/github/stars/scu-zjz/IMDLBenCo?style=social&label=Code+Stars)](https://github.com/scu-zjz/IMDLBenCo), is now fully released and under long-term maintenance and construction!  
-- ``Publication`` *2024.06*: &nbsp;🎉🎉 Our latest framework and benchmark model on private object detection, [PrivacyGuard](https://arxiv.org/pdf/2406.12736), is now online; the code and training dataset will soon be available!
-- ``A&S Service`` *2024.04*: Appointed as the *Program Committee Member* for *NIPS24*.
-- ``A&S Service`` *2024.02*: Appointed as the *Program Committee Member* for *ECCV24*. 
-- ``A&S Service`` *2024.01*: Appointed as the *Area Chair* for *MM24*. 
-- ``Publication`` *2023.12*: &nbsp;🎉🎉 Our latest benchmark model on IML, [IML-ViT](https://github.com/SunnyHaze/IML-ViT), is now fully outsourced!  
+- *2024.09* ``Competition``: &nbsp;🎉🎉 We won the *First Price* in  **``Tecent AI Arena Competition (腾讯开悟比赛多智能体博弈赛道)``**, meaning  *1/2000+* . Both of our teams are advanced to the grand finals, check "[Award List of Tecent AI Arena 2024](https://pre-prod.kaiwu.pvp.qq.com/aiarena/zh/match/open-competition-2024?tab=score)" for details.   
+- *2024.07* ``Publication``: &nbsp;🎉🎉 Two of our works on image generation are accepted as *oral* in *ACM MM2024*! Code and paper will soon be available!
+- *2024.06* ``A&S Service``: Appointed as the *Program Committee Member* for *AAAI24*.  
+- *2024.06* ``Publication``: &nbsp;🎉🎉 Our comprehensive benchmark and modular codebase on IML (addressing the model evaluation), [IMDL-BenCo](https://github.com/scu-zjz/IMDLBenCo)[![](https://img.shields.io/github/stars/scu-zjz/IMDLBenCo?style=social&label=Code+Stars)](https://github.com/scu-zjz/IMDLBenCo), is now fully released and under long-term maintenance and construction!  
+- *2024.06* ``Publication``: &nbsp;🎉🎉 Our latest framework and benchmark model on private object detection, [PrivacyGuard](https://arxiv.org/pdf/2406.12736), is now online; the code and training dataset will soon be available!
+- *2024.04* ``A&S Service``: Appointed as the *Program Committee Member* for *NIPS24*.
+- *2024.01* ``A&S Service``: Appointed as the *Area Chair* for *MM24*. 
+- *2023.12* ``Publication``: &nbsp;🎉🎉 Our latest benchmark model on IML, [IML-ViT](https://github.com/SunnyHaze/IML-ViT), is now fully outsourced!  
 
 # 📝 Selected Publications 
 
