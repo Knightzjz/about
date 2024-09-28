@@ -22,11 +22,10 @@ redirect_from:
 周吉喆，四川大学计算机学院副教授，主要擅长内容安全和自监督学习方向，长期招收AI+CV方向solid background and self-motivated的研究生与本科生（限川大），组内各研究方向详见Supervised Students部分，欢迎联系邮件 jzzhou@scu.edu.cn 。   
 
 # 🔥 News  
-
+- *2024.09* ``Publication``: &nbsp;[*NeurIPS 2024*, *Spotlight!*]🎉🎉 Our comprehensive benchmark and modular codebase on IML (addressing the model evaluation), [IMDL-BenCo](https://github.com/scu-zjz/IMDLBenCo)[![](https://img.shields.io/github/stars/scu-zjz/IMDLBenCo?style=social&label=Code+Stars)](https://github.com/scu-zjz/IMDLBenCo), is now fully released and under long-term maintenance and construction!  
 - *2024.09* ``Competition``: &nbsp;🎉🎉 We won the *First Price* in  **``Tecent AI Arena Competition (腾讯开悟比赛多智能体博弈赛道)``**, meaning  *1/2000+* . Both of our teams are advanced to the grand finals, check "[Award List of Tecent AI Arena 2024](https://pre-prod.kaiwu.pvp.qq.com/aiarena/zh/match/open-competition-2024?tab=score)" for details.   
 - *2024.07* ``Publication``: &nbsp;🎉🎉 Two of our works on image generation are accepted as *oral* in *ACM MM2024*! Code and paper will soon be available!
 - *2024.06* ``A&S Service``: Appointed as the *Program Committee Member* for *AAAI24*.  
-- *2024.06* ``Publication``: &nbsp;🎉🎉 Our comprehensive benchmark and modular codebase on IML (addressing the model evaluation), [IMDL-BenCo](https://github.com/scu-zjz/IMDLBenCo)[![](https://img.shields.io/github/stars/scu-zjz/IMDLBenCo?style=social&label=Code+Stars)](https://github.com/scu-zjz/IMDLBenCo), is now fully released and under long-term maintenance and construction!  
 - *2024.06* ``Publication``: &nbsp;🎉🎉 Our latest framework and benchmark model on private object detection, [PrivacyGuard](https://arxiv.org/pdf/2406.12736), is now online; the code and training dataset will soon be available!
 - *2024.04* ``A&S Service``: Appointed as the *Program Committee Member* for *NIPS24*.
 - *2024.01* ``A&S Service``: Appointed as the *Area Chair* for *MM24*. 
