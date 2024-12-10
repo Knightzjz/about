@@ -22,8 +22,8 @@ redirect_from:
 周吉喆，四川大学计算机学院副教授，主要擅长内容安全和自监督学习方向，长期招收AI+CV方向solid background and self-motivated的研究生与本科生（限川大），组内各研究方向详见Supervised Students部分，欢迎联系邮件 jzzhou@scu.edu.cn 。   
 
 # 🔥 News  
-- *2024.12* ``Publication``: &nbsp;[*AAAI 2025*]🎉🎉 The very first solution of constructing the non-semantic feature extractor through a self-supervied manner in IML is poposed by us and accepted by AAAI 25 (scoring:766)! Code \& paper will be released here soon.   
-- *2024.12* ``Publication``: &nbsp;[*AAAI 2025*]🎉🎉 Our new IML backbone model, which adopts a parallel CNN+Transformer structure to simutanousely deal with image semantics and non-semantics, is accepted by AAAI25 (scoring:7777)! Code \& paper will be released here soon.
+- *2024.12* ``Publication``: &nbsp;[*AAAI 2025*]🎉🎉 The very first solution of constructing the non-semantic feature extractor through a self-supervied manner in IML is poposed by us and accepted by AAAI 25 (scoring:766)! Code & paper will be released here soon.   
+- *2024.12* ``Publication``: &nbsp;[*AAAI 2025*]🎉🎉 Our new IML backbone model, which adopts a parallel CNN+Transformer structure to simutanousely deal with image semantics and non-semantics, is accepted by AAAI25 (scoring:7777)! Code & paper will be released here soon.
 - *2024.11* ``Competition``: &nbsp;🎉🎉 We won the      
 ---*2nd Price* in  Alibaba Tianchi, Global AI Attack & Defense Challenge-Track 1: Safety vaccine injection for large model generated images (阿里天池全球AI攻防挑战赛-赛道一：大模型生图安全疫苗注入), meaning  *2/1574* .   
 ---*9th Price* in  Alibaba Tianchi, Global AI Attack & Defense Challenge-Track 2: Financial certificate manipulation detection (阿里天池全球AI攻防挑战赛-赛道二：AI核身之金融场景凭证篡改检测), meaning  *9/1162* .     
@@ -31,7 +31,7 @@ redirect_from:
 - *2024.10* ``A&S Service``: Appointed as the *Program Committee Member* for *CVPR25*.  
 - *2024.09* ``Publication``: &nbsp;[*NeurIPS 2024*, *Spotlight!(0.9%)*]🎉🎉 Our comprehensive benchmark and modular codebase on IML (addressing the model evaluation), [IMDL-BenCo](https://github.com/scu-zjz/IMDLBenCo)[![](https://img.shields.io/github/stars/scu-zjz/IMDLBenCo?style=social&label=Code+Stars)](https://github.com/scu-zjz/IMDLBenCo), is now fully released and under long-term maintenance and construction!  
 - *2024.09* ``A&S Service``: Appointed as the *Program Committee Member* for *ICLR25*. 
-- *2024.09* ``Competition``: &nbsp;🎉🎉 We won the *1st Price* in  Tecent AI Arena Competition (腾讯开悟比赛多智能体博弈赛道), meaning  *1/2000+* . Both of our teams are advanced to the grand finals, check "[Award List of Tecent AI Arena 2024](https://pre-prod.kaiwu.pvp.qq.com/aiarena/zh/match/open-competition-2024?tab=score)" for details.
+- *2024.09* ``Competition``: &nbsp;🎉🎉 We won the *1st Price* in  Tecent AI Arena Competition (腾讯开悟比赛多智能体博弈赛道), meaning  *1/2000+* . Both of our teams are advanced to the grand finals, check "[Award List](https://pre-prod.kaiwu.pvp.qq.com/aiarena/zh/match/open-competition-2024?tab=score)" for details.
 - *2024.07* ``Publication``: &nbsp;[*MM 2024*, *Oral(3%)*]🎉🎉 We raise the generative contrstive approach to address the person identification through chest bones, details are in [Neural Boneprint](https://dl.acm.org/doi/abs/10.1145/3664647.3681174).
 - *2024.07* ``Publication``: &nbsp;[*MM 2024*, *Oral(3%)*]🎉🎉 We propose to revise the inexacts while restoring images through Diffusion models, details are in [DPPS](https://dpps.pages.dev/)[![](https://img.shields.io/github/stars/74587887/DPPS_code?style=social&label=Code+Stars)](https://github.com/74587887/DPPS_code).   
 - *2024.06* ``A&S Service``: Appointed as the *Program Committee Member* for *AAAI25*.  
