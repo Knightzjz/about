@@ -20,11 +20,14 @@ redirect_from:
 ⛹️‍♂️Ji-Zhe Zhou (周吉喆)🏊‍♂️, Associate Professor at the School of Computer Science, Sichuan University. I obtained my Ph.D. (early graduation) from the University of Macau in 2021. My primary research areas are the self-supervised learning theories and multimedia content security. I am the first or corresponding author for many top conferences and IEEE transactions, including ICCV, NIPS, ACM MM, ACL, IJCAI, AAAI, etc,. My publication recieved a total <a href='https://scholar.google.com/citations?user=-cNWmJMAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> citations.   
 
 周吉喆，四川大学计算机学院副教授，主要擅长内容安全和自监督学习方向，长期招收AI+CV方向solid background and self-motivated的研究生与本科生（限川大），组内各研究方向详见Supervised Students部分，欢迎联系邮件 jzzhou@scu.edu.cn 。   
--2024.12: I am granted with 1 extra quota for international master student in 2025 fall, contact me through jzzhou@scu.edu.cn   
--2024.12: 2025年秋季入学研究生的招生名额调增1个，请有意向的保研同学投递简历至jzzhou@scu.edu.cn    
+- 2024.12: I am granted with 1 extra quota for international master student in 2025 fall, contact me through jzzhou@scu.edu.cn   
+- 2024.12: 2025年秋季入学研究生的招生名额调增1个，请有意向的保研同学投递简历至jzzhou@scu.edu.cn  
+
 # 🔥 News  
-- *2024.12* ``Publication``: &nbsp;[*AAAI 2025*]🎉🎉 [Mesorch](https://arxiv.org/pdf/2412.13753)[![](https://img.shields.io/github/stars/scu-zjz/Mesorch?style=social&label=Code+Stars)](https://github.com/scu-zjz/Mesorch), our new IML backbone model, which adopts a parallel CNN+Transformer structure to simultaneously deal with image semantics and non-semantics, is accepted by AAAI25 (scoring:7777)!    
-- *2024.12* ``Publication``: &nbsp;[*AAAI 2025*]🎉🎉 [Sparse-ViT](https://arxiv.org/pdf/2412.14598)[![](https://img.shields.io/github/stars/scu-zjz/SparseViT?style=social&label=Code+Stars)](https://github.com/scu-zjz/SparseViT), the very first solution of constructing the non-semantic feature extractor through a self-supervised manner in IML is proposed by us and accepted by AAAI 25 (scoring:766)!     
+- *2024.10* ``A&S Service``: Appointed as the *Associate Editor* for *《四川大学学报》&《计算机应用》*.
+- *2024.10* ``A&S Service``: Appointed as the *Program Committee Member* for *ICML25*.  
+- *2024.12* ``Publication``: &nbsp;[*AAAI 2025*]🎉🎉 [Mesorch](https://arxiv.org/pdf/2412.13753), our new IML backbone model, which adopts a parallel CNN+Transformer structure to simultaneously deal with image semantics and non-semantics, is accepted by AAAI25 (scoring:7777)!    
+- *2024.12* ``Publication``: &nbsp;[*AAAI 2025*]🎉🎉 [Sparse-ViT](https://arxiv.org/pdf/2412.14598), the very first solution of constructing the non-semantic feature extractor through a self-supervised manner in IML is proposed by us and accepted by AAAI 25 (scoring:766)!     
 - *2024.11* ``Competition``: &nbsp;🎉🎉 We won the      
 ---*2nd Price* in  Alibaba Tianchi, Global AI Attack & Defense Challenge-Track 1: Safety vaccine injection for large model generated images (阿里天池全球AI攻防挑战赛-赛道一：大模型生图安全疫苗注入), meaning  *2/1574* .   
 ---*9th Price* in  Alibaba Tianchi, Global AI Attack & Defense Challenge-Track 2: Financial certificate manipulation detection (阿里天池全球AI攻防挑战赛-赛道二：AI核身之金融场景凭证篡改检测), meaning  *9/1162* .     
