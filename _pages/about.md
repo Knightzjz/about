@@ -24,8 +24,8 @@ redirect_from:
 - 2024.12: 2025年秋季入学研究生的招生名额调增1个，请有意向的保研同学投递简历至jzzhou@scu.edu.cn  
 
 # 🔥 News  
-- *2024.10* ``A&S Service``: Appointed as the *Associate Editor* for *《四川大学学报》&《计算机应用》*.
-- *2024.10* ``A&S Service``: Appointed as the *Program Committee Member* for *ICML25*.  
+- *2024.12* ``A&S Service``: Appointed as the *Associate Editor* for *《四川大学学报》&《计算机应用》*.
+- *2024.12* ``A&S Service``: Appointed as the *Program Committee Member* for *ICML25*.  
 - *2024.12* ``Publication``: &nbsp;[*AAAI 2025*]🎉🎉 [Mesorch](https://arxiv.org/pdf/2412.13753), our new IML backbone model, which adopts a parallel CNN+Transformer structure to simultaneously deal with image semantics and non-semantics, is accepted by AAAI25 (scoring:7777)!    
 - *2024.12* ``Publication``: &nbsp;[*AAAI 2025*]🎉🎉 [Sparse-ViT](https://arxiv.org/pdf/2412.14598), the very first solution of constructing the non-semantic feature extractor through a self-supervised manner in IML is proposed by us and accepted by AAAI 25 (scoring:766)!     
 - *2024.11* ``Competition``: &nbsp;🎉🎉 We won the      
