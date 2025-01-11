@@ -26,8 +26,8 @@ redirect_from:
 # 🔥 News  
 - *2024.12* ``A&S Service``: Appointed as the *Associate Editor* for *《四川大学学报》&《计算机应用》*.
 - *2024.12* ``A&S Service``: Appointed as the *Program Committee Member* for *ICML25*.  
-- *2024.12* ``Publication``: &nbsp;[*AAAI 2025*]🎉🎉 [Mesorch](https://arxiv.org/pdf/2412.13753), our new IML backbone model, which adopts a parallel CNN+Transformer structure to simultaneously deal with image semantics and non-semantics, is accepted by AAAI25 (scoring:7777)!    
-- *2024.12* ``Publication``: &nbsp;[*AAAI 2025*]🎉🎉 [Sparse-ViT](https://arxiv.org/pdf/2412.14598), the very first solution of constructing the non-semantic feature extractor through a self-supervised manner in IML is proposed by us and accepted by AAAI 25 (scoring:766)!     
+- *2024.12* ``Publication``: &nbsp;[*AAAI 2025*]🎉🎉 [Mesorch](https://arxiv.org/pdf/2412.13753)[![Stars](https://img.shields.io/github/stars/scu-zjz/Mesorch?style=social)](https://github.com/scu-zjz/Mesorch), our new IML backbone model, which adopts a parallel CNN+Transformer structure to simultaneously deal with image semantics and non-semantics, is accepted by AAAI25!    
+- *2024.12* ``Publication``: &nbsp;[*AAAI 2025*]🎉🎉 [Sparse-ViT](https://arxiv.org/pdf/2412.14598)[![Stars](https://img.shields.io/github/stars/scu-zjz/SparseViT?style=social)](https://github.com/scu-zjz/SparseViT), the very first solution of constructing the non-semantic feature extractor through a self-supervised manner in IML is proposed by us and accepted by AAAI 25!     
 - *2024.11* ``Competition``: &nbsp;🎉🎉 We won the      
 ---*2nd Price* in  Alibaba Tianchi, Global AI Attack & Defense Challenge-Track 1: Safety vaccine injection for large model generated images (阿里天池全球AI攻防挑战赛-赛道一：大模型生图安全疫苗注入), meaning  *2/1574* .   
 ---*9th Price* in  Alibaba Tianchi, Global AI Attack & Defense Challenge-Track 2: Financial certificate manipulation detection (阿里天池全球AI攻防挑战赛-赛道二：AI核身之金融场景凭证篡改检测), meaning  *9/1162* .     
