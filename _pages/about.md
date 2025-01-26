@@ -24,6 +24,7 @@ redirect_from:
 - 2024.12: 2025年秋季入学研究生的招生名额调增1个，请有意向的保研同学投递简历至jzzhou@scu.edu.cn  
 
 # 🔥 News  
+- *2025.01* ``A&S Service``: Appointed as the *Editorial Board Member* for *Journal of Machine Learning Research (JMLR)* & *Applied Energy*
 - *2024.12* ``A&S Service``: Appointed as the *Associate Editor* for *《四川大学学报》&《计算机应用》*.
 - *2024.12* ``A&S Service``: Appointed as the *Program Committee Member* for *ICML25*.  
 - *2024.12* ``Publication``: &nbsp;[*AAAI 2025*]🎉🎉 [Mesorch](https://arxiv.org/pdf/2412.13753)[![Stars](https://img.shields.io/github/stars/scu-zjz/Mesorch?style=social)](https://github.com/scu-zjz/Mesorch), our new IML backbone model, which adopts a parallel CNN+Transformer structure to simultaneously deal with image semantics and non-semantics, is accepted by AAAI25!    
